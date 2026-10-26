@@ -1,13 +1,18 @@
 # Introduction
 
-In the era of rapidly advancing Artificial Intelligence (AI) and Machine Learning, which are increasingly transforming research across the life sciences, the Machine Learning & AI for Life Sciences 2026 workshop provides a rigorous introduction to contemporary computational methodologies and their applications in biological and biomedical research. Designed for participants with a foundational knowledge of Python, the workshop combines theoretical concepts with hands-on training to equip learners with the skills required to apply AI and machine learning techniques to real-world life science challenges.
+In the era of rapidly advancing Artificial Intelligence (AI) and Machine Learning, which are increasingly transforming research across the life sciences, the Machine Learning & AI for Life Sciences 2026 workshop provides a rigorous introduction to contemporary computational methodologies and their applications in biological and biomedical research. Designed for participants with a foundational knowledge of Python, the workshop combines theoretical concepts with hands-on training to equip learners with the skills required to apply AI and machine learning techniques to real-world challenges in the life sciences.
 
 # Content
 
 - Introduction to Machine Learning
-- Deep learning foundations
-- AI ethics
+- Foundations of Deep Learning
+- AI ethics and Responsible Use
 - Capstone projects
+
+# Venue
+
+Room D209, Campus 2, HCMUS
+2-4 November 2026
 
 # Acknowledgement
 
