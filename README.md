@@ -17,7 +17,7 @@ Room D209, Campus 2, HCMUS
 # Getting Started
 
 - Open https://colab.research.google.com/
-- Click **GitHub** in the notebook selection window.
+- Click **Upload notebook**, then **GitHub** in the notebook selection window.
 - Enter the repository URL: https://github.com/vanduttran/ai-ml-lifesciences
 - Select the notebook **Chapter_0_python_warmup.ipynb**.
 
